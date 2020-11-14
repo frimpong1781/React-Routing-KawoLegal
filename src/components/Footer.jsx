@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="row">
 		    <div className="col-md-6 foot-txt">
 		    	<ul>
-		        	<li> copy 2020 KawoLegal. All Rights Reserved</li>
+		        	<li> &copy 2020 KawoLegal. All Rights Reserved</li>
 		    	</ul>
 		    </div>
 
