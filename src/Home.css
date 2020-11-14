@@ -1,0 +1,25 @@
+
+
+/* Start of Landing Page */
+
+.cont-height {
+    margin-top: 220px;
+    height: 0px;
+  }
+  
+  .text h1 {
+    font-size: 300%;
+    color: white;
+  }
+  .text h3 {
+    font-size: 200%;
+    color: white;
+  }
+  .text {
+  margin-bottom: 40px;
+  }
+  
+  .text-btn {
+    padding: 10px 30px;
+    font-size: 25px;
+  }
